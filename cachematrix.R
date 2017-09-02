@@ -8,6 +8,7 @@
 ##get the value of the matrix
 ##set the value of inverse of the matrix
 ##get the value of inverse of the matrix
+##renturn a list of funciotn
 
 #makeCacheMatrix is a function that caches its inverse.
 makeCacheMatrix <- function(x = matrix()) {
